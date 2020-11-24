@@ -1,3 +1,6 @@
+@yuriloia - I've changed some parameters on the gazebo_ros_link_attacher.cpp file to make it work on the Gazebo 7.1,
+the one used by the Ros Kinetic
+
 Attach two Gazebo models with a virtual joint in a generalized grasp hack
 
 # Build
